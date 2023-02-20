@@ -1,0 +1,7 @@
+1.Python's design philosophy emphasizes code readability with its notable use of significant whitespace.
+3.Python is dynamically-typed and garbage-collected.
+5.Python is often described as a "batteries included" language due to its comprehensive standard library.
+7.Python 2.0, released in 2000, introduced new features, such as list comprehensions, and a garbage collection system with reference counting, and was discontinued with version 2.7 in 2020.
+9.With Python 2's end-of-life (and pip having dropped support in 2021[32]), only Python 3.6.x[33] and later are supported, with older versions still supporting e.g. Windows 7 (and old installers not restricted to 64-bit Windows).
+11.A global community of programmers develops and maintains CPython, a free and open-source[34] reference implementation.
+13.As of January 2021, Python ranks third in TIOBE’s index of most popular programming languages, behind C and Java, having previously gained second place and their award for the most popularity gain for 2020.
